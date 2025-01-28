@@ -15,11 +15,12 @@ representa um bit, permitindo assim a contagem de 0 a 31 utilizando apenas uma m
 funcionamento do código requer a utilização apenas da mão esquerda, com a palma virada
 em direção à câmera.
 
-> Segue uma tabela representando as possíveis combinações numéricas:
+ Segue uma tabela representando as possíveis combinações numéricas:
 
 ![Tabela de possíveis combinações](./img/Captura%20de%20tela%202025-01-28%20122903.png)
 
-> Seguem abaixo exemplos do código em funcionamento:
+ Seguem abaixo exemplos do código em funcionamento:
+
 ![Captura de tela com o número 18](./img/Captura%20de%20tela%202025-01-28%20122923.png "18")
 ![Captura de tela com o número 7](./img/Captura%20de%20tela%202025-01-28%20122932.png "7")
 ![Captura de tela com o número 25](./img/Captura%20de%20tela%202025-01-28%20122940.png "25")
